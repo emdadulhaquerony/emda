@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+.main-fluid{
+    width:;
+    background:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(../img/1.png);
+    background-size:cover;
+    height:280vh;
+    background-repeat:no-repeat;
+}
+h1{
+    color:#ecb36f;
+    font-family: 'Dancing Script', cursive;
+ font-weight: bold;
+display:block;
+}
+.container-fluid a img{
+    min-width:20%;
+    max-height:80px;
+}
+.box-one img{
+    min-width:100%;
+    max-height:600px;
+}
